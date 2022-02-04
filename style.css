@@ -1,0 +1,58 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: cyan;
+}
+
+nav {
+    background-color: cyan;
+    text-align: center;
+    padding: 5px;
+}
+
+h1 {
+    background-color: pink;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    background-color: red;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+b {
+    text-align: center;
+    font-size: 25px;
+}
+
+footer {
+    background-color: cyan;
+    text-align: center;
+}
+
+.productia {
+    border: solid purple;
+    border-radius: 15px;
+}
+
+.productia2 {
+    border: solid purple;
+    border-radius: 15px;
+}
+
+.productia3 {
+    border: solid purple;
+    border-radius: 15px;
+}
+
+.productia4 {
+    border: solid purple;
+    border-radius: 15px;
+}
